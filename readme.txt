@@ -10,7 +10,6 @@ Classes in purple are grouped classes.
 
 In package:
 The package should include class values.xlsx, departments.txt, input.txt, sample files folder, schedule.exe, and schedule.py (python source code).
-Other files are neccessary dependencies and are not to be deleted.
 
 Requirements:
 The program is compatible with Windows systems.
