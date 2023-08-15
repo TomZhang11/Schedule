@@ -1,3 +1,7 @@
+"""
+I did not use the best methods to write this program as I had no experiences with openpyxl before,
+and after learning more about openpyxl I realized I did not make good use of the library.
+"""
 from openpyxl import Workbook, load_workbook
 from string import ascii_uppercase
 from openpyxl.styles import PatternFill, Font
