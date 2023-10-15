@@ -1,12 +1,8 @@
 Schedule Organizer
 developed by Tom Zhang
 
-Purpose:
-The purpose of this program is to help school staff better visualize their class schedule.
-The program will output an excel file (output.xlsx).
-See the sample output file in the sample files folder
-Classes in red are full year classes.
-Classes in purple are grouped classes.
+The Purpose:
+I wrote this program for my high school's vice principal: As a school principal, he needed to have a clear picture of which classes run during each period, but the school's system only outputs classes in a text file format. This is not helpful for visualizing when each class is scheduled, and he would have needed to manually put the class names into an Excel document. After implementing my program, he only has to place the text file in the same directory of my program and run the executable to organize the classes into an Excel document. He told me that he will be sharing this program with other principals in the city (wow! How pleasure for a programmer to hear that!)
 
 In package:
 The package should include class values.xlsx, departments.txt, input.txt, sample files folder, schedule.exe, and schedule.py (python source code).
